@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ["*"]
 
 REST_FRAMEWORK = {
     # Other configuration settings...
-}git 
+}
 
 CORS_ALLOW_ALL_ORIGINS = True
 
