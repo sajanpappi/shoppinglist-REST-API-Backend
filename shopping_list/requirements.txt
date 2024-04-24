@@ -1,9 +1,0 @@
-asgiref
-Django
-django-cors-headers
-django-filter
-djangorestframework
-pillow
-sqlparse
-tzdata
-djangorestframework-simplejwt
